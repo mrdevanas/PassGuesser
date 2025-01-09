@@ -1,5 +1,5 @@
 Hello World! What is this?
-This is an app I made for ***guessing passwords***.
+This is an app I made for ***guessing passwords***✨.
 
 _How can you test it?_
 1. `git clone https://github.com/mrdevanas/PassGuesser`
